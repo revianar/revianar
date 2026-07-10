@@ -14,7 +14,7 @@
 ## Current Research Interests 🔎
 
 - *I am currently looking for opportunities working in the industry and/or pursuing MSc in Chemistry*.
-- *Use these information below as my preferences for future opportunities*.
+- *Use these information below as my preferences for future opportunities or collaborations*.
 
 | Emoji | Representation |
 | --- | --- |

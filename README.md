@@ -7,6 +7,7 @@
 - 🔬 My research experience spans cellulose nanocrystals, biomass valorization, biosurfactants, colloidal systems, climate data analysis, and environmental modeling, **and I'm continuously exploring how computational methods can accelerate chemistry research**.
 - 🌎 **Long-term goal**: develop computational and experimental expertise that bridges chemistry, AI, and sustainable materials to solve real industrial and environmental challenges for **cost-efficiency and increased productivity**.
 - 💬 Open for discussions about chemistry, scientific programming, machine learning for research, environmental data science, or open-source scientific computing.
+- Reach me out at **revianalif@gmail.com**
 
 ---
 

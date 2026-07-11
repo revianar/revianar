@@ -26,12 +26,12 @@
 - ⚪ Supramolecular Chemistry
 - ⚪ Colloid & Interface Science
 - ⚪ Polymer & Biomaterials
+- ⚪ Surface Chemistry
 - ⚪ Adsorption Science
 - ⚫ Computational Materials Science
 - ⚫ Scientific Machine Learning
 - ⚫ AI for Materials Discovery
 - 🔵 Water Treatment Technologies
-- 🔵 Environmental Chemistry
 
 ## Currently Learning 📝
 

@@ -64,9 +64,9 @@
 
 ## **My Hobbies** 🎯
 
-- I dance. 🕺 Yep, a chemistry graduate with coding skills enthusiastically moves his hips with the music. My daily life involves Shuffling, Running Man, Sarrinho, T-step, Charleston, V-step, and other fun dance moves.
-- I like modernizing things. 📦 I used to wake up at 3 AM after a few hours of sleep thinking that I should learn to build AI Agents to bring scalable EHS framework to laboratory settings. It's called `lushlyst`, saved as one of my GitHub repository.
-- Strategy is my favorite video game genre. 🗺️ StarCraft II (I main Protoss), Victoria 3, Europa Universalis IV, Sid Meier's Civilization VI, and many more. In these games, I prefer developing a chaotic scenario than maintaining a stable status-quo.
+- **I dance**. 🕺 Yep, a chemistry graduate with coding skills enthusiastically moves his hips with the music. My daily life involves Shuffling, Running Man, Sarrinho, T-step, Charleston, V-step, and other fun dance moves.
+- **I like modernizing things**. 📦 I used to wake up at 3 AM after a few hours of sleep thinking that I should learn to build AI Agents to bring scalable EHS framework to laboratory settings. It's called `lushlyst`, saved as one of my GitHub repository.
+- **Strategy is my favorite video game genre**. 🗺️ StarCraft II (I main Protoss), Victoria 3, Europa Universalis IV, Sid Meier's Civilization VI, and many more. In these games, I prefer developing a chaotic scenario than maintaining a stable status-quo.
 
 ---
 
